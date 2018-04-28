@@ -1,5 +1,5 @@
 {
-  "name": "full-stack-burgers",
+  "name": "Burgers",
   "version": "1.0.0",
   "description": "Full-stack app MySQL, Node, Express, Handlebars, and ORM for ordering burgers",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rmglennon/full-stack-burgers.git"
+    "url": "https://github.com/vanhooktristan/Burgers"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rmglennon/full-stack-burgers/issues"
+    "url": "https://github.com/vanhooktristan/Burgers/issues"
   },
-  "homepage": "https://github.com/rmglennon/full-stack-burgers#readme",
+  "homepage": "https://github.com/vanhooktristan/Burgers",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
