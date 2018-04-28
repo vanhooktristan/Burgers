@@ -1,13 +1,11 @@
 .main-text {
   padding-top: 30px;
-  background-color: orange!important;
   margin-top: 20px;
-  margin-bottom: 30px;
+  
 }
 
 body {
-  background-color: #00CCCC;
-  background: url(../img/wallpaper.jpg);
+  background: url("../img/background.jpg");
 }
 
 ul {
@@ -24,12 +22,13 @@ ul li {
 #burger-banner {
   width: 50%;
   height: 50%;
+  margin-bottom: 40px;
 }
 
 .devour-btn, 
 #submit-burger {
-  background-color: #e0876a;
-  border-color: #f9ccac;
+  background-color: orange;
+  border-color: red;
 }
 
 .devour-btn:hover, 
